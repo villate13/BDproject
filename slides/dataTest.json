@@ -1,0 +1,530 @@
+{
+    "created_at": "Wed Jul 08 16:52:27 +0000 2020",
+    "id": 1280907611089625089,
+    "id_str": "1280907611089625089",
+    "text": "RT @Cherr_Sly: What's wrong with these people???",
+    "source": "<a href=http://twitter.com/download/android' rel='nofollow'>Twitter for Android</a>",
+    "truncated": "False",
+    "in_reply_to_status_id": "None",
+    "in_reply_to_status_id_str": "None",
+    "in_reply_to_user_id": "None",
+    "in_reply_to_user_id_str": "None",
+    "in_reply_to_screen_name": "None",
+    "user": {
+        "id": 895240889190273024,
+        "id_str": "895240889190273024",
+        "name": "Lord Conde",
+        "screen_name": "isildur97",
+        "location": "None",
+        "url": "None",
+        "description": "None",
+        "translator_type": "None",
+        "protected": "False",
+        "verified": "False",
+        "followers_count": 140,
+        "friends_count": 191,
+        "listed_count": 0,
+        "favourites_count": 4031,
+        "statuses_count": 806,
+        "created_at": "Wed Aug 09 11:10:35 +0000 2017",
+        "utc_offset": "None",
+        "time_zone": "None",
+        "geo_enabled": "False",
+        "lang": "None",
+        "contributors_enabled": "False",
+        "is_translator": "False",
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": "False",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": "True",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253718633357946882/xcNgky37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253718633357946882/xcNgky37_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/895240889190273024/1581356926",
+        "default_profile": "True",
+        "default_profile_image": "False",
+        "following": "None",
+        "follow_request_sent": "None",
+        "notifications": "None"
+    },
+    "geo": "None",
+    "coordinates": "None",
+    "place": "None",
+    "contributors": "None",
+    "retweeted_status": {
+        "created_at": "Wed Jul 08 16:52:10 +0000 2020",
+        "id": 1280907541015388165,
+        "id_str": "1280907541015388165",
+        "text": "What's wrong with these people???",
+        "source": "<a href='https://mobile.twitter.com' rel='nofollow'>Twitter Web App</a>",
+        "truncated": "False",
+        "in_reply_to_status_id": "None",
+        "in_reply_to_status_id_str": "None",
+        "in_reply_to_user_id": "None",
+        "in_reply_to_user_id_str": "None",
+        "in_reply_to_screen_name": "None",
+        "user": {
+            "id": 1145579491030372353,
+            "id_str": "1145579491030372353",
+            "name": "Cheryl",
+            "screen_name": "Cherr_Sly",
+            "location": "None",
+            "url": "None",
+            "description": "🇰🇪",
+            "translator_type": "None",
+            "protected": "False",
+            "verified": "False",
+            "followers_count": 314,
+            "friends_count": 527,
+            "listed_count": 0,
+            "favourites_count": 1664,
+            "statuses_count": 1297,
+            "created_at": "Mon Jul 01 06: 26: 49 +0000 2019",
+            "utc_offset": "None",
+            "time_zone": "None",
+            "geo_enabled": "False",
+            "lang": "None",
+            "contributors_enabled": "False",
+            "is_translator": "False",
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": "False",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": "True",
+            "profile_image_url": "http: //pbs.twimg.com/profile_images/1201444083702673411/hX410Css_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201444083702673411/hX410Css_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145579491030372353/1572705376",
+            "default_profile": "True",
+            "default_profile_image": "False",
+            "following": "None",
+            "follow_request_sent": "None",
+            "notifications": "None"
+        },
+        "geo": "None",
+        "coordinates": "None",
+        "place": "None",
+        "contributors": "None",
+        "quoted_status_id": 1280875328718753792,
+        "quoted_status_id_str": "1280875328718753792",
+        "quoted_status": {
+            "created_at": "Wed Jul 08 14:44:10 +0000 2020",
+            "id": 1280875328718753792,
+            "id_str": "1280875328718753792",
+            "text": "ALL AIRLINE crews exempted from quarantine if they do not display flu symptoms; all foreign travellers must have Co… https://t.co/k1t53ivWa1",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href='https: //about.twitter.com/products/tweetdeck' rel='nofollow'>TweetDeck</a>",
+            "truncated": "True",
+            "in_reply_to_status_id": "None",
+            "in_reply_to_status_id_str": "None",
+            "in_reply_to_user_id": "None",
+            "in_reply_to_user_id_str": "None",
+            "in_reply_to_screen_name": "None",
+            "user": {
+                "id": 1731878023,
+                "id_str": "1731878023",
+                "name": "NationBreakingNews",
+                "screen_name": "NationBreaking",
+                "location": "Nairobi",
+                "url": "http://www.nation.co.ke",
+                "description": "Breaking news and updates from East Africa's leading daily newspaper, the @DailyNation",
+                "translator_type": "None",
+                "protected": "False",
+                "verified": "True",
+                "followers_count": 1072561,
+                "friends_count": 27,
+                "listed_count": 618,
+                "favourites_count": 14,
+                "statuses_count": 17653,
+                "created_at": "Thu Sep 05 12: 48: 52 +0000 2013",
+                "utc_offset": "None",
+                "time_zone": "None",
+                "geo_enabled": "True",
+                "lang": "None",
+                "contributors_enabled": "False",
+                "is_translator": "False",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http: //abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": "False",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": "True",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731878023/1422371845",
+                "default_profile": "True",
+                "default_profile_image": "False",
+                "following": "None",
+                "follow_request_sent": "None",
+                "notifications": "None"
+            },
+            "geo": "None",
+            "coordinates": "None",
+            "place": "None",
+            "contributors": "None",
+            "is_quote_status": "False",
+            "extended_tweet": {
+                "full_text": "ALL AIRLINE crews exempted from quarantine if they do not display flu symptoms; all foreign travellers must have Covid-19 certificates, CS Macharia says. https://t.co/keaMzcbhtM",
+                "display_text_range": [
+                    0,
+                    153
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1280875303838060545,
+                            "id_str": "1280875303838060545",
+                            "indices": [
+                                154,
+                                177
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                            "url": "https://t.co/keaMzcbhtM",
+                            "display_url": "pic.twitter.com/keaMzcbhtM",
+                            "expanded_url": "https://twitter.com/NationBreaking/status/1280875328718753792/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 853,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 800,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 453,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1280875303838060545,
+                            "id_str": "1280875303838060545",
+                            "indices": [
+                                154,
+                                177
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                            "url": "https://t.co/keaMzcbhtM",
+                            "display_url": "pic.twitter.com/keaMzcbhtM",
+                            "expanded_url": "https://twitter.com/NationBreaking/status/1280875328718753792/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 853,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 800,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 453,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 21,
+            "reply_count": 25,
+            "retweet_count": 42,
+            "favorite_count": 114,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/k1t53ivWa1",
+                        "expanded_url": "https://twitter.com/i/web/status/1280875328718753792",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": "False",
+            "retweeted": "False",
+            "possibly_sensitive": "False",
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/i7FsA5dWqQ",
+            "expanded": "https://twitter.com/NationBreaking/status/1280875328718753792",
+            "display": "twitter.com/NationBreaking…"
+        },
+        "is_quote_status": "True",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": "False",
+        "retweeted": "False",
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1280875328718753792,
+    "quoted_status_id_str": "1280875328718753792",
+    "quoted_status": {
+        "created_at": "Wed Jul 08 14:44:10 +0000 2020",
+        "id": 1280875328718753792,
+        "id_str": "1280875328718753792",
+        "text": "ALL AIRLINE crews exempted from quarantine if they do not display flu symptoms; all foreign travellers must have Co… https://t.co/k1t53ivWa1",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href='https://about.twitter.com/products/tweetdeck' rel='nofollow'>TweetDeck</a>",
+        "truncated": "True",
+        "in_reply_to_status_id": "None",
+        "in_reply_to_status_id_str": "None",
+        "in_reply_to_user_id": "None",
+        "in_reply_to_user_id_str": "None",
+        "in_reply_to_screen_name": "None",
+        "user": {
+            "id": 1731878023,
+            "id_str": "1731878023",
+            "name": "NationBreakingNews",
+            "screen_name": "NationBreaking",
+            "location": "Nairobi",
+            "url": "http: //www.nation.co.ke",
+            "description": "Breaking news and updates from East Africa's leading daily newspaper, the @DailyNation",
+            "translator_type": "None",
+            "protected": "False",
+            "verified": "True",
+            "followers_count": 1072561,
+            "friends_count": 27,
+            "listed_count": 618,
+            "favourites_count": 14,
+            "statuses_count": 17653,
+            "created_at": "Thu Sep 05 12:48:52 +0000 2013",
+            "utc_offset": "None",
+            "time_zone": "None",
+            "geo_enabled": "True",
+            "lang": "None",
+            "contributors_enabled": "False",
+            "is_translator": "False",
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": "False",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": "True",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/563298037095616514/ty-TG7S3_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1731878023/1422371845",
+            "default_profile": "True",
+            "default_profile_image": "False",
+            "following": "None",
+            "follow_request_sent": "None",
+            "notifications": "None"
+        },
+        "geo": "None",
+        "coordinates": "None",
+        "place": "None",
+        "contributors": "None",
+        "is_quote_status": "False",
+        "extended_tweet": {
+            "full_text": "ALL AIRLINE crews exempted from quarantine if they do not display flu symptoms; all foreign travellers must have Covid-19 certificates, CS Macharia says. https://t.co/keaMzcbhtM",
+            "display_text_range": [
+                0,
+                153
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1280875303838060545,
+                        "id_str": "1280875303838060545",
+                        "indices": [
+                            154,
+                            177
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                        "url": "https://t.co/keaMzcbhtM",
+                        "display_url": "pic.twitter.com/keaMzcbhtM",
+                        "expanded_url": "https://twitter.com/NationBreaking/status/1280875328718753792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1280875303838060545,
+                        "id_str": "1280875303838060545",
+                        "indices": [
+                            154,
+                            177
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EcaVTW7WkAEaaBk.jpg",
+                        "url": "https://t.co/keaMzcbhtM",
+                        "display_url": "pic.twitter.com/keaMzcbhtM",
+                        "expanded_url": "https://twitter.com/NationBreaking/status/1280875328718753792/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 21,
+        "reply_count": 25,
+        "retweet_count": 42,
+        "favorite_count": 114,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/k1t53ivWa1",
+                    "expanded_url": "https://twitter.com/i/web/status/1280875328718753792",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": "False",
+        "retweeted": "False",
+        "possibly_sensitive": "False",
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/i7FsA5dWqQ",
+        "expanded": "https://twitter.com/NationBreaking/status/1280875328718753792",
+        "display": "twitter.com/NationBreaking…"
+    },
+    "is_quote_status": "True",
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Cherr_Sly",
+                "name": "Cheryl",
+                "id": 1145579491030372353,
+                "id_str": "1145579491030372353",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": "False",
+    "retweeted": "False",
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1594227147253"
+}
